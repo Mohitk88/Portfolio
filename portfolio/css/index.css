@@ -1,0 +1,43 @@
+
+
+
+
+/* Main Start */
+body{
+    background-color: black;
+overflow-x: hidden;
+}
+.nav-link{
+    color:white !important;
+   font-weight: bold;
+   
+
+}
+.navbar-color{
+    background: rgb(4, 76, 131);
+    position: sticky;
+    z-index: 999;
+    top: 0px;
+}
+.text{
+    color: white !important;
+}
+.hello{
+    margin-top: 200px;
+    color:white !important;
+    opacity: 5;
+    
+}
+.photo{
+    max-height: 400px;
+    max-width: 400px;
+    border-radius: 50%;
+    border: 1px solid;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px black;
+    
+}
+
+/* Main end */
+
+
